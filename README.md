@@ -47,7 +47,7 @@ A real-time chat application with:
 
 ## 🔗 Connect with Me
 
-- 📧 Email: dimpho@example.com  
+- 📧 Email: malatjidimpho589@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/dimpho-malatji-952403203](https://www.linkedin.com/in/dimpho-malatji-952403203)  
 - 📞 Phone: 082 233 9302  
 - 📍 Location: Mathabatha Atok 0749, South Africa
